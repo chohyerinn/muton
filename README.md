@@ -13,11 +13,10 @@
 
 ## 데모
 
-| 실시간 자막 | 대화 요약 |
-|---|---|
-| *(스크린샷 또는 GIF 추가)* | *(스크린샷 또는 GIF 추가)* |
-
-> TODO: 시연 GIF 1~2개를 넣으세요. 채용자는 README에서 "동작하는 화면"을 가장 먼저 봅니다.
+| 실시간 자막 | 대화 기록 · 요약 |
+|:---:|:---:|
+| <img src="docs/screenshots/live-caption.png" width="260" alt="실시간 자막 화면" /> | <img src="docs/screenshots/conversation-record.png" width="260" alt="대화 기록 및 요약 화면" /> |
+| 카메라 위에 표정 태그(`Visual: Neutral`)와 실시간 발화 자막을 함께 표시. 요약 신뢰도가 낮으면 **`분석 중 (확신도 낮음)`** 상태로 노출. | 날짜별 대화 기록과 상단 상황 요약. 각 발화의 감정·태도 묘사를 확신도와 함께 저장(Firebase). |
 
 ---
 
