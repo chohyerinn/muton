@@ -2,9 +2,8 @@
 
 > 농인·난청인을 위한 실시간 대화 보조 시스템 — 단순 자막을 넘어 **표정·음성 맥락·대화 흐름**까지 요약해 상황과 감정의 뉘앙스를 전달합니다.
 
-가천대학교 졸업 팀 프로젝트 · Python 71% / Kotlin 29%
+가천대학교 졸업 팀 프로젝트 
 
-> **이 저장소는 팀 프로젝트입니다.**
 > AI 모델 학습·백엔드 서버 로직은 팀원이 맡았으며, 아래에서 제 기여 범위는 Android 클라이언트 전반 — UI, Firebase 인증(회원가입/로그인), 백엔드 API 연동 입니다.
 >
 > 원본: [Ai-pre/MUTON](https://github.com/Ai-pre/MUTON) · Android 원본: [Ai-pre/MUTON-Android](https://github.com/Ai-pre/MUTON-Android)
