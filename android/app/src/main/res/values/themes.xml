@@ -1,0 +1,8 @@
+<resources>
+    <style name="Theme.MutonNative" parent="Theme.Material3.Light.NoActionBar">
+        <item name="android:statusBarColor">@android:color/transparent</item>
+        <item name="android:navigationBarColor">@color/muton_bg</item>
+        <item name="android:windowLightStatusBar">true</item>
+        <item name="android:windowBackground">@color/muton_bg</item>
+    </style>
+</resources>

@@ -1,0 +1,22 @@
+{
+  "samples": [
+    {
+      "id": "quiet_meeting_001",
+      "image_path": "sample.jpg",
+      "audio_path": "chunk.wav",
+      "audio_format": "wav",
+      "reference_text": "Korean reference transcript here.",
+      "reference_summary": "Korean reference summary here.",
+      "tags": ["quiet", "meeting"]
+    },
+    {
+      "id": "cafe_noise_001",
+      "image_path": "sample_cafe.jpg",
+      "audio_path": "chunk_cafe.pcm",
+      "audio_format": "pcm",
+      "reference_text": "Korean reference transcript in noise here.",
+      "reference_summary": "Korean reference summary in noise here.",
+      "tags": ["noise", "cafe"]
+    }
+  ]
+}

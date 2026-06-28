@@ -1,0 +1,5 @@
+{
+  "base_url": "https://name-daniel-forest-noticed.trycloudflare.com",
+  "updated_at_utc": "2026-06-07T15:16:30.000000+00:00",
+  "notes": "Android app reads this file to discover the current backend URL."
+}

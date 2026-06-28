@@ -1,0 +1,30 @@
+<resources>
+    <color name="muton_bg">#F4F6FB</color>
+    <color name="muton_card">#FFFFFFFF</color>
+    <color name="muton_primary">#4358F5</color>
+    <color name="muton_primary_soft">#EEF1FF</color>
+    <color name="muton_panel">#F3F3F3</color>
+    <color name="muton_text">#111827</color>
+    <color name="muton_muted">#667085</color>
+    <color name="muton_calendar_weekday">#98A2B3</color>
+    <color name="muton_overlay">#8C111827</color>
+    <color name="muton_live_red">#FF5D5D</color>
+    <color name="muton_warning">#D32F2F</color>
+    <color name="muton_green">#1A9B6F</color>
+    <color name="muton_gold">#F4C542</color>
+    <color name="muton_screen_bg">#FFFFFF</color>
+    <color name="muton_surface">#FFFFFF</color>
+    <color name="muton_surface_soft">#F3F3F3</color>
+    <color name="muton_surface_elevated">#F2F2F2</color>
+    <color name="muton_home_slider_track">#F2F2F2</color>
+    <color name="muton_home_slider_thumb">#D9D9D9</color>
+    <color name="muton_home_slider_progress">#DCE4FF</color>
+    <color name="muton_conversation_bubble">#F3F3F3</color>
+    <color name="muton_calendar_selected_circle">#FFFFFF</color>
+    <color name="muton_record_card_bg">#EEF1FF</color>
+    <color name="muton_record_time">#98A2B3</color>
+    <color name="muton_detail_time">#667085</color>
+    <color name="muton_detail_summary_text">#667085</color>
+    <color name="muton_back_button_bg">#E6FFFFFF</color>
+    <color name="muton_overlay_surface">#12FFFFFF</color>
+</resources>

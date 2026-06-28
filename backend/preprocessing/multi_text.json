@@ -1,0 +1,336 @@
+{
+  "clip_813": [
+    {
+      "name": "813_1",
+      "frame": "101",
+      "emotion": "angry",
+      "valence": 3,
+      "arousal": 7,
+      "script": "어렵단 말이야.",
+      "summary_text": "미간을 찌푸리고 높은 톤의 짜증 섞인 어조로 학습지 내용의 어려움 호소."
+    },
+    {
+      "name": "813_2",
+      "frame": "241",
+      "emotion": "sad",
+      "valence": 4,
+      "arousal": 3,
+      "script": "나한텐 어렵단 말이야.",
+      "summary_text": "입술이 내려간 불쾌한 표정과 약간 처지고 힘없는 어조 개인적인 어려움 강조."
+    },
+    {
+      "name": "813_3",
+      "frame": "454",
+      "emotion": "angry",
+      "valence": 3,
+      "arousal": 7,
+      "script": " 알았어!",
+      "summary_text": "단호하고 높은 톤과 화난 표정으로 마지못한 수용."
+    },
+    {
+      "name": "813_4",
+      "frame": "677",
+      "emotion": "angry",
+      "valence": 3,
+      "arousal": 7,
+      "script": "내가 비교하지 말랬지!",
+      "summary_text": "격렬하게 소리치는 어조로 비교에 대한 강한 분노 표현."
+    },
+    {
+      "name": "813_5",
+      "frame": "785",
+      "emotion": "angry",
+      "valence": 3,
+      "arousal": 7,
+      "script": "기분 나빠.",
+      "summary_textc": "단호하고 짜증 섞인 어조로 화난 표정을 지으며 불쾌함 표현"
+    },
+    {
+      "name": "813_6",
+      "frame": "1011",
+      "emotion": "angry",
+      "valence": 3,
+      "arousal": 6,
+      "script": "싫어. 이래라 저래라 하지마. 알아서 할거야.",
+      "summary_text": "날카롭고 단호한 어조와 화를 참는 듯한 표정으로 거부 및 반항."
+    }
+  ],
+  "clip_838": [
+    {
+      "name": "838_1",
+      "frame": "81",
+      "emotion": "dislike",
+      "valence": 3,
+      "arousal": 6,
+      "script": "아니.",
+      "summary_text": "단호하고 강한 어조와 입술을 굳게 다문 불쾌한 표정으로 거절."
+    },
+    {
+      "name": "838_2",
+      "frame": "213",
+      "emotion": "surprise",
+      "valence": 6,
+      "arousal": 5,
+      "script": "마법사 그런거?",
+      "summary_text": "호기심을 담은 억양과 눈썹을 치켜세운 놀란 표정으로 재확인."
+    },
+    {
+      "name": "838_3",
+      "frame": "336",
+      "emotion": "dislike",
+      "valence": 3,
+      "arousal": 8,
+      "script": "싫어. 유치해.",
+      "summary_text": "단호한 억양으로 미간을 찌푸린 불쾌한 표정을 지으며 판타지 영화를 유치하다며 거부함."
+    },
+    {
+      "name": "838_4",
+      "frame": "493",
+      "emotion": "happy",
+      "valence": 8,
+      "arousal": 7,
+      "script": "나는 슬픈거 좋아해.",
+      "summary_text": "웃는 표정과 명랑하고 높은 톤으로 슬픈 영화 선호 표출."
+    },
+    {
+      "name": "838_5",
+      "frame": "612",
+      "emotion": "angry",
+      "valence": 2,
+      "arousal": 8,
+      "script": "이거 보자.",
+      "summary_text": "분노한 표정과 매우 격앙되고 강렬한 어조로 강요함."
+    },
+    {
+      "name": "838_6",
+      "frame": "645",
+      "emotion": "angry",
+      "valence": 2,
+      "arousal": 8,
+      "script": "그니까 보자고.",
+      "summary_text": "고집스럽고 단호한 어조와 입을 다물며 강요함."
+    },
+    {
+      "name": "838_7",
+      "frame": "1017",
+      "emotion": "surprise",
+      "valence": 1,
+      "arousal": 9,
+      "script": "그걸 내가 왜 닦아줘. 삼촌 미쳤어?",
+      "accessible_emotion_desc": "놀란 표정과 높은 톤, 격앙되고 비난하는 억양으로 거부감 표현."
+    },
+    {
+      "name": "838_8",
+      "frame": "1194",
+      "emotion": "happy",
+      "valence": 8,
+      "arousal": 8,
+      "script": "어? 나 코미디도 좋아해.",
+      "summary_text": "기쁜 표정으로 미소를 지으며 코미디 영화 시청에 대한 긍정적 반응."
+    },
+    {
+      "name": "838_9",
+      "frame": "1434",
+      "emotion": "happy",
+      "valence": 8,
+      "arousal": 8,
+      "script": "무슨 내용인데?",
+      "summary_text": "매우 활기차고 높은 억양으로 영화 내용 질문."
+    }
+  ],
+  "clip_875": [
+    {
+      "name": "875_1",
+      "frame": "31",
+      "emotion": "happy",
+      "valence": 8,
+      "arousal": 4,
+      "script": "지은아. 너는 졸업하고 무슨 과로 갈 지 생각해봤니?",
+      "summary_text": "따뜻하고 부드러운 어조, 잔잔하게 미소 짓는 표정으로 진로 계획에 대해 질문."
+    },
+    {
+      "name": "875_2",
+      "frame": "231",
+      "emotion": "happy",
+      "valence": 7,
+      "arousal": 2,
+      "script": "경영학과? 경영학과 좋지. 경영학과로 가려는 이유가 있어?",
+      "summary_text": "관심을 표하는 억양으로 경영학과 지원 이유 질문."
+    },
+    {
+      "name": "875_3",
+      "frame": "528",
+      "emotion": "happy",
+      "valence": 7,
+      "arousal": 4,
+      "script": "그래? 아버지가 무슨 회사 하시는데?",
+      "summary_text": "살짝 미소짓는 표정으로 아버지 회사 종류 질문."
+    },
+    {
+      "name": "875_4",
+      "frame": "709",
+      "emotion": "happy",
+      "valence": 7,
+      "arousal": 4,
+      "script": "그렇구나. 그럼 취업 걱정은 안 해도 되겠네.",
+      "summary_text": "납득하며 긍정하는 어조로 고개를 끄덕이며 취업 걱정 불필요 언급."
+    },
+    {
+      "name": "875_5",
+      "frame": "900",
+      "emotion": "happy",
+      "valence": 8,
+      "arousal": 3,
+      "script": "그래. 경영학과 쪽으로 가서 열심히 배워두면 도움이 되겠다.",
+      "summary_text": "온화하고 격려하는 어조로 경영학과 선택에 대한 지지."
+    },
+    {
+      "name": "875_6",
+      "frame": "1097",
+      "emotion": "happy",
+      "valence": 8,
+      "arousal": 4,
+      "script": "나중에 돈 많이 벌어서 학교 기부 좀 해라.",
+      "summary_text": "유머러스하면서도 격려하는 어조와 환하게 미소 짓는 표정 미래에 학교 기부 권유."
+    }
+  ],
+  "clip_900": [
+    {
+      "name": "900_1",
+      "frame": "31",
+      "emotion": "angry",
+      "valence": 3,
+      "arousal": 6,
+      "script": " 아 짜증나 이게 또 안되네.",
+      "summary_text": "화난 말투와 찡그린 표정으로 응시중."
+    },
+    {
+      "name": "900_2",
+      "frame": "195",
+      "emotion": "dislike",
+      "valence": 3,
+      "arousal": 5,
+      "script": "공인인증서... 공인인증서가 자꾸 에러가 나.",
+      "summary_text": "화난 듯한 억양으로 공인인증서 오류로 불쾌한 표정을 지음."
+    },
+    {
+      "name": "900_3",
+      "frame": "410",
+      "emotion": "dislike",
+      "valence": 4,
+      "arousal": 4,
+      "script": "지난 번에 갱신하면서 뭐가 잘못 됐는지 잘 안되네.",
+      "summary_text": "불쾌한 표정으로 인증서 갱신 문제 언급."
+    },
+    {
+      "name": "900_4",
+      "frame": "659",
+      "emotion": "dislike",
+      "valence": 3,
+      "arousal": 6,
+      "script": "아.. 이거 지우고 인터넷 들어가서 또 깔고 또 옮기고. 에휴.",
+      "summary_text": "짜증나는 말투와 불쾌한 표정으로 인증서 재설치 과정에 대한 불만 표출."
+    },
+    {
+      "name": "900_5",
+      "frame": "947",
+      "emotion": "dislike",
+      "valence": 3,
+      "arousal": 5,
+      "script": "사람 인내심 시험하는 것도 아니고.",
+      "summary_text": "비난하는 말투와 강한 억양으로 시스템에 대한 불만을 드러냄."
+    },
+    {
+      "name": "900_6",
+      "frame": "1134",
+      "emotion": "dislike",
+      "valence": 4,
+      "arousal": 3,
+      "script": "이거 만든 사람은… 대체 무슨 생각이었을까? 모두가 불편해 하는 걸 왜 만들었을까?",
+      "summary_text": "약간 떨리는 말투로 시스템 설계자에 대한 비판적인 의문 제기."
+    },
+    {
+      "name": "900_7",
+      "frame": "1577",
+      "emotion": "angry",
+      "valence": 3,
+      "arousal": 5,
+      "script": "야… 불편한 걸 적응하려고 하면 어떡해! 불편하면 바꾸려고 해야지!",
+      "summary_text": "분노한 말투와 강한 어투로 불편함을 바꿔야 한다는 주장."
+    },
+    {
+      "name": "900_8",
+      "frame": "1847",
+      "emotion": "angry",
+      "valence": 4,
+      "arousal": 4,
+      "script": "아니야. 불편한 건 반드시 고치고! 바꿔야 돼!",
+      "summary_text": "화난 표정으로 시스템 개선의 필요성을 격앙되게 강조."
+    }
+  ],
+  "clip_956": [
+    {
+      "name": "956_1",
+      "frame": "162",
+      "emotion": "surprise",
+      "valence": 5,
+      "arousal": 7,
+      "script": "뭐의 약자지?",
+      "summary_text": "눈을 크게 뜨고 입을 벌린 표정으로 생소한 용어의 의미를 궁금해함."
+    },
+    {
+      "name": "956_2",
+      "frame": "556",
+      "emotion": "happy",
+      "valence": 7,
+      "arousal": 8,
+      "script": "그럼 이 꼬물 대는 애들은 크립이고. 애네를 잡으면 그게 크립 스코어가 되는거네.",
+      "summary_text": "경쾌하고 들뜬 어조로 크립과 크립 스코어 개념 확인."
+    },
+    {
+      "name": "956_3",
+      "frame": "1095",
+      "emotion": "dislike",
+      "valence": 4,
+      "arousal": 6,
+      "script": "과외비 안주기로 한 거. 맞는 거 같아.",
+      "summary_text": "투덜거리는 듯한 억양으로 과외비 관련 농담/불만 언급."
+    },
+    {
+      "name": "956_4",
+      "frame": "1581",
+      "emotion": "happy",
+      "valence": 6,
+      "arousal": 7,
+      "script": "오케이.",
+      "summary_text": "웃는 표정으로 이해하고 수긍하는 반응"
+    },
+    {
+      "name": "956_5",
+      "frame": "1780",
+      "emotion": "dislike",
+      "valence": 4,
+      "arousal": 7,
+      "script": "잠깐. 패시브는 뭐고. 액티브 스킬은 뭐야.",
+      "summary_text": "당황한 듯 높은 억양과 혼란스러운 표정으로 패시브와 액티브 스킬 질문."
+    },
+    {
+      "name": "956_6",
+      "frame": "2029",
+      "emotion": "dislike",
+      "valence": 2,
+      "arousal": 7,
+      "script": "아니다. 이거 이렇게 해서는 하반기 안에 시작도 못하겠어. 나 그냥 용어집 하나 사야겠어.",
+      "summary_text": "한숨 섞인 격앙된 목소리로 용어 난해함에 대한 표현."
+    },
+    {
+      "name": "956_7",
+      "frame": "2393",
+      "emotion": "neutral",
+      "valence": 5,
+      "arousal": 6,
+      "script": "어어. 용어집.",
+      "summary_text": "눈을 살짝 크게 뜬 표정으로 의사 표현."
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:state_checked="true">
+        <shape android:shape="oval">
+            <solid android:color="@color/muton_primary" />
+            <stroke
+                android:width="1.5dp"
+                android:color="@color/muton_primary" />
+            <size
+                android:width="22dp"
+                android:height="22dp" />
+        </shape>
+    </item>
+    <item>
+        <shape android:shape="oval">
+    <solid android:color="@color/muton_surface" />
+            <stroke
+                android:width="1.5dp"
+                android:color="#B8C2EA" />
+            <size
+                android:width="22dp"
+                android:height="22dp" />
+        </shape>
+    </item>
+</selector>

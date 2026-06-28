@@ -1,0 +1,10 @@
+torch>=2.5.0
+torchaudio>=2.5.0
+transformers @ git+https://github.com/huggingface/transformers.git
+accelerate>=1.0.1
+peft>=0.14.0
+bitsandbytes>=0.45.0
+sentencepiece>=0.1.99
+librosa>=0.10.1
+soundfile>=0.12.1
+Pillow>=10.2.0

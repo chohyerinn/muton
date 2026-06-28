@@ -1,0 +1,22 @@
+.env
+.venv/
+.vscode/
+__pycache__/
+.pytest_cache/
+.ruff_cache/
+build/
+dist/
+artifacts/
+data/
+out/
+
+# python
+__pycache__/
+*.pyc
+
+# vscode
+.vscode/
+
+# logs
+*.log
+google-services.json
